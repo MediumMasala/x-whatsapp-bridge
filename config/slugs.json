@@ -1,17 +1,17 @@
 {
   "default": {
     "slug": "default",
-    "baseText": "Hi Tal",
+    "baseText": "Hi I want to know more about grapevine",
     "defaultUtmCampaign": "x-general"
   },
   "pune": {
     "slug": "pune",
-    "baseText": "Hi Tal",
+    "baseText": "Hi I want to know more about grapevine",
     "defaultUtmCampaign": "x-pune"
   },
   "chennai": {
     "slug": "chennai",
-    "baseText": "Hi Tal",
+    "baseText": "Hi I want to know more about grapevine",
     "defaultUtmCampaign": "x-chennai"
   }
 }
