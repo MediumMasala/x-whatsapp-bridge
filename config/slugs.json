@@ -1,0 +1,17 @@
+{
+  "default": {
+    "slug": "default",
+    "baseText": "Hi Tal",
+    "defaultUtmCampaign": "x-general"
+  },
+  "pune": {
+    "slug": "pune",
+    "baseText": "Hi Tal",
+    "defaultUtmCampaign": "x-pune"
+  },
+  "chennai": {
+    "slug": "chennai",
+    "baseText": "Hi Tal",
+    "defaultUtmCampaign": "x-chennai"
+  }
+}
