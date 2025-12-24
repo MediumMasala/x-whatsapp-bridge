@@ -1,12 +1,10 @@
 /**
  * Health check endpoint
  * GET /api/healthz
- *
- * Returns server health status for monitoring and load balancers
  */
 
 import { NextResponse } from 'next/server';
-import { getEnvConfig, validateEnvConfig } from '@x-whatsapp-bridge/shared';
+import { getEnvConfig, validateEnvConfig } from '@/lib/slug-config';
 
 export const runtime = 'nodejs';
 
